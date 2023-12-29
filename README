@@ -2,6 +2,6 @@
 
 Standalone bash scripts are the following:
 
-- gen_single_top_4f.sh: Compute single top production at NLO in QCD with cQq13 or cQq83 four-fermion operator (at fixed order, in the five flavour scheme where t and s channels are not separated). NLO overlap with tW associated production is removed with the "$$" syntax. The W width has to be set to zero to preserve gauge invariance (and ensure pole cancellation). In the cQq83 case, a user loop filter is needed to include loops involving both a gluon and a W that otherwise not considered as pure QCD ones.
+- gen_single_top_4f.sh: Compute single top production at NLO in QCD with cQq13 or cQq83 four-fermion operator (at fixed order, in the five flavour scheme where t and s channels are not separated). NLO overlap with tW associated production is removed with the "$$" syntax. The W width has to be set to zero to preserve gauge invariance (and ensure pole cancellation). In the cQq83 case, a user loop filter is needed to include loops involving both a gluon and a W that are otherwise not considered as pure QCD ones.
 
 
